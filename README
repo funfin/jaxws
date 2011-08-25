@@ -1,0 +1,3 @@
+to run 
+
+mvn clean install jetty:run
